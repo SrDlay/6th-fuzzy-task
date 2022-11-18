@@ -1,0 +1,1 @@
+Homework about Fuzzy logic
